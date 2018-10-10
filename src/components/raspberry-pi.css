@@ -1,0 +1,13 @@
+.pi code {
+    background-color: #2d2d2d;
+    border-radius: 5px;
+    color: #fff;
+    padding: .1em .2em;
+}
+
+.pi img {
+    margin: 3em;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
